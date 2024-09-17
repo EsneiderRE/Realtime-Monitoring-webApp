@@ -131,3 +131,4 @@ dmypy.json
 *.csv
 #Ignore macOS organization files
 **/.DS_Store
+.idea/
